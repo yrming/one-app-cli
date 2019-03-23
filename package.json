@@ -1,6 +1,6 @@
 {
   "name": "one-app-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for ONE",
   "main": "index.js",
   "bin": {
